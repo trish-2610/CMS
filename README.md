@@ -2,7 +2,7 @@
 
 <!-- ![College Management System](https://user-images.githubusercontent.com/your-image.png) -->
 
-## 🚀 Google Solutions Challenge 2025 Submission
+## 🚀 TechSprint 2026 Submission
 
 ### 🌟 Open Innovation for a Better Tomorrow
 **Team Members:** Vaidik Lotan and Trishansh Sahane
